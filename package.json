@@ -1,0 +1,28 @@
+{
+  "name": "@kount/kount-web-client-sdk",
+  "type": "module",
+  "version": "1.1.6",
+  "description": "Kount's Web Client SDK. See https://github.com/Kount/kount-web-sdk/blob/master/README.md for more information.",
+  "main": "kount-web-client-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kount/kount-web-sdk.git"
+  },
+  "keywords": [
+    "Kount",
+    "Collector",
+    "Web",
+    "SDK",
+    "Device"
+  ],
+  "files": [
+    "kount-web-client-config-template.js",
+    "kount-web-client-sdk.js"
+  ],
+  "author": "Kount",
+  "license": "SEE LICENSE IN LICENSE"
+}
